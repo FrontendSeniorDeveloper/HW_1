@@ -21,6 +21,6 @@ double degreeOfNumber = 1;
 
 for (int i = 0; i < numberB; i++)
 {
-    degreeOfNumber = degreeOfNumber*numberA;
+    degreeOfNumber = degreeOfNumber*numberA; 
 }
 Console.WriteLine($"число:{numberA} в степени:{numberB} = {degreeOfNumber}");
