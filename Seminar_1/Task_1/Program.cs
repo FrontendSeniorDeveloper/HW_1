@@ -14,3 +14,4 @@ else
     Console.WriteLine("Максимальное число: " + number_2);
     Console.WriteLine("Минимальное число: " + number_1);
 }
+ 
